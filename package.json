@@ -14,5 +14,13 @@
     "body-parser": "^1.20.2",
     "ejs": "^3.1.9",
     "express": "^4.18.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zafergursoy82/Backend_5_2_Json.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zafergursoy82/Backend_5_2_Json/issues"
+  },
+  "homepage": "https://github.com/zafergursoy82/Backend_5_2_Json#readme"
 }
